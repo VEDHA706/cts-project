@@ -1,0 +1,61 @@
+DishName,MajorIngredients,Calories,Proteins,Fat,Carbs,Fiber,Sodium,Potassium,Cholesterol,SugarContent,DietaryInfo,ServingSize,MealType,DishCategory
+Idli,"Rice, Urad Dal",150,4.0,1.0,30,1.0,200,100,Low,1,"Low fat, gluten-free",2 idlis,Breakfast,Vegetarian
+Vada,"Urad Dal, Rice Flour",200,5.0,10.0,20,2.0,300,150,Moderate,2,"Deep-fried, protein-rich",2 vadas,Breakfast,Vegetarian
+Upma,"Semolina, Vegetables",180,4.0,5.0,30,3.0,250,100,Low,1,"Light, easy to digest",1 bowl,Breakfast,Vegetarian
+Pongal,"Rice, Moong Dal",220,6.0,6.0,35,2.0,200,120,Low,1,"High protein, low fat",1 bowl,Breakfast,Vegetarian
+Dosa,"Rice, Urad Dal",170,4.0,3.0,35,1.0,200,100,Low,1,"Light, gluten-free",1 dosa,Breakfast,Vegetarian
+Pesarattu,"Green Gram, Rice",200,6.0,3.0,35,4.0,200,200,Low,1,Rich in protein,1 serving,Breakfast,Vegetarian
+Rava Kesari,"Semolina, Ghee",250,3.0,10.0,40,2.0,150,80,Moderate,20,"Sweet, high calorie",1 serving,Breakfast,Vegetarian
+Kanchipuram Idli,"Rice, Urad Dal",160,5.0,1.0,32,1.0,180,110,Low,1,"Steamed, low calorie",2 idlis,Breakfast,Vegetarian
+Kozhukattai,"Rice Flour, Jaggery",180,3.0,6.0,35,3.0,120,90,Low,10,"Sweet, high fiber",2 pieces,Breakfast,Vegetarian
+Appam,"Rice, Coconut Milk",210,4.0,5.0,38,2.0,130,120,Low,5,"Light, rich in carbs",1 appam,Breakfast,Vegetarian
+Chicken Dosa,"Rice, Urad Dal, Chicken",250,12.0,8.0,30,1.5,220,100,Moderate,0,"Protein-rich, balanced",1 piece,Breakfast,Non-Vegetarian
+Mutton Kheema Dosa,"Rice, Urad Dal, Mutton Kheema",350,15.0,15.0,35,2.0,300,120,Moderate,0,"High protein, filling",1 piece,Breakfast,Non-Vegetarian
+Egg Appam,"Rice, Coconut Milk, Eggs",220,7.0,7.0,28,1.5,150,70,Moderate,1,Soft and nutritious,1 piece,Breakfast,Non-Vegetarian
+Egg Bhurji with Upma,"Semolina, Eggs, Spices",250,10.0,10.0,25,2.5,350,80,Moderate,1,"Protein-packed, spicy",1 cup,Breakfast,Non-Vegetarian
+Chicken Puttu,"Rice Flour, Chicken, Coconut",230,11.0,6.0,30,3.0,220,60,Moderate,1,"High protein, high fiber",1 piece,Breakfast,Non-Vegetarian
+Fish Curry Idli,"Rice, Urad Dal, Fish Curry",260,12.0,8.0,30,1.0,250,90,Moderate,1,"Balanced meal, flavorful",2 pieces,Breakfast,Non-Vegetarian
+Chicken Pongal,"Rice, Moong Dal, Chicken",280,14.0,9.0,35,2.0,260,100,Moderate,0,"Comforting, nutritious",1 cup,Breakfast,Non-Vegetarian
+Prawn Upma,"Semolina, Prawns, Vegetables",240,15.0,6.0,30,2.5,300,90,Moderate,1,Rich in protein and fiber,1 cup,Breakfast,Non-Vegetarian
+Egg Dosa,"Rice, Urad Dal, Eggs",220,9.0,6.0,30,1.0,200,70,Moderate,0,"High protein, filling",1 piece,Breakfast,Non-Vegetarian
+Mutton Keema Idli,"Rice, Urad Dal, Mutton Keema",280,12.0,10.0,30,1.0,270,110,Moderate,0,Rich in protein and flavor,2 pieces,Breakfast,Non-Vegetarian
+Sambar Rice,"Rice, Lentils, Tamarind, Vegetables",230,6.0,4.0,40,5.0,350,200,Low,3,"High fiber, nutrient-dense",1 bowl,Lunch,Vegetarian
+Curd Rice,"Rice, Curd, Tempering Spices",200,6.0,4.5,30,1.0,400,100,Low,4,"Cooling, easy to digest",1 bowl,Lunch,Vegetarian
+Vegetable Biryani,"Basmati Rice, Mixed Vegetables, Spices",250,5.0,5.0,45,4.0,600,250,Moderate,2,"Aromatic, rich in vegetables",1 plate,Lunch,Vegetarian
+Avial,"Mixed Vegetables, Coconut, Curd",180,3.5,8.0,20,5.0,200,150,Low,3,"Creamy, rich in vitamins",1 bowl,Lunch,Vegetarian
+Puliyodarai,"Rice, Tamarind, Spices, Peanuts",230,4.0,8.0,35,3.0,500,200,Moderate,2,"Tangy, flavorful",1 bowl,Lunch,Vegetarian
+Paruppu Usili,"Green Beans, Toor Dal, Spices",200,8.0,6.0,20,5.0,300,150,Low,1,"High protein, crunchy",1 bowl,Lunch,Vegetarian
+Rasam Rice,"Rice, Tomato, Tamarind, Spices",190,4.0,2.0,35,2.0,400,150,Low,2,"Light, tangy",1 bowl,Lunch,Vegetarian
+Lemon Rice,"Rice, Lemon, Spices, Peanuts",220,4.0,7.0,35,3.0,500,120,Low,2,"Refreshing, tangy",1 bowl,Lunch,Vegetarian
+Mor Kuzhambu,"Buttermilk, Vegetables, Coconut, Spices",180,4.0,7.0,15,3.0,300,100,Low,2,"Creamy, probiotic-rich",1 bowl,Lunch,Vegetarian
+Kootu,"Mixed Vegetables, Moong Dal, Coconut",190,6.0,5.0,20,4.0,200,120,Low,1,"Mild, rich in protein and fiber",1 bowl,Lunch,Vegetarian
+Chicken Biryani,"Basmati Rice, Chicken, Spices",350,18.0,12.0,45,3.0,600,250,Moderate,2,"Rich, flavorful, high protein",1 plate,Lunch,Non-Vegetarian
+Mutton Curry,"Mutton, Onion, Tomato, Spices",300,20.0,20.0,10,2.0,450,300,Moderate,3,"Hearty, rich in protein",1 bowl,Lunch,Non-Vegetarian
+Fish Fry,"Fish, Spices, Oil",220,20.0,12.0,2,0.0,400,200,Low,0,"Protein-rich, low-carb",2 pieces,Lunch,Non-Vegetarian
+Chicken Chettinad,"Chicken, Coconut, Spices",320,22.0,15.0,10,2.0,500,300,Moderate,2,"Spicy, rich in flavor",1 bowl,Lunch,Non-Vegetarian
+Mutton Biryani,"Basmati Rice, Mutton, Spices",370,20.0,15.0,45,2.0,700,250,Moderate,2,"Hearty, rich in protein and carbs",1 plate,Lunch,Non-Vegetarian
+Prawn Curry,"Prawns, Coconut, Spices",250,22.0,10.0,5,1.0,300,200,Moderate,1,"Protein-packed, aromatic",1 bowl,Lunch,Non-Vegetarian
+Chicken Kurma,"Chicken, Coconut, Cashew, Spices",330,18.0,20.0,10,2.0,450,200,Moderate,2,"Creamy, rich in protein and fats",1 bowl,Lunch,Non-Vegetarian
+Fish Curry,"Fish, Tamarind, Spices",240,22.0,8.0,5,1.0,350,200,Low,1,"Tangy, protein-rich",1 bowl,Lunch,Non-Vegetarian
+Egg Biryani,"Basmati Rice, Eggs, Spices",300,12.0,10.0,40,2.0,500,200,Moderate,2,"High protein, balanced meal",1 plate,Lunch,Non-Vegetarian
+Chicken Fry,"Chicken, Spices, Oil",280,22.0,18.0,2,0.0,400,150,Moderate,0,"High protein, low carb",2 pieces,Lunch,Non-Vegetarian
+Ragi Mudde,"Ragi Flour, Water, Ghee",180,4.0,4.0,35,2.0,50,100,Low,0,"High in calcium, gluten-free",1 serving,Dinner,Vegetarian
+Vegetable Stew,"Mixed Vegetables, Coconut Milk, Spices",200,4.0,12.0,20,3.0,200,150,Low,2,"Creamy, rich in vitamins",1 bowl,Dinner,Vegetarian
+Adai,"Rice, Lentils, Spices",220,8.0,5.0,35,5.0,300,200,Low,1,"Protein-rich, filling",1 serving,Dinner,Vegetarian
+Pongal,"Rice, Moong Dal, Pepper, Ghee",250,6.0,8.0,40,2.0,350,150,Moderate,1,"Comforting, rich in protein",1 bowl,Dinner,Vegetarian
+Thayir Sadam,"Rice, Curd, Tempering Spices",200,6.0,5.0,30,1.0,400,100,Low,4,"Cooling, probiotic-rich",1 bowl,Dinner,Vegetarian
+Masala Dosa,"Rice, Urad Dal, Potatoes, Spices",300,8.0,10.0,45,4.0,500,200,Moderate,2,"Crispy, rich in carbs and fiber",1 serving,Dinner,Vegetarian
+Kichadi,"Rice, Moong Dal, Vegetables, Ghee",230,6.0,6.0,35,3.0,300,150,Low,1,"Easy to digest, nutritious",1 bowl,Dinner,Vegetarian
+Upma,"Semolina, Vegetables, Spices",200,4.0,5.0,30,3.0,250,100,Low,1,"Light, nutritious",1 bowl,Dinner,Vegetarian
+Olan,"Ash Gourd, Coconut Milk, Black-eyed Peas",180,4.0,8.0,15,4.0,150,100,Low,1,"Mild, rich in fiber and nutrients",1 bowl,Dinner,Vegetarian
+Kootu Curry,"Mixed Vegetables, Coconut, Spices",210,6.0,7.0,20,4.0,200,150,Low,2,"Nutritious, protein and fiber-rich",1 bowl,Dinner,Vegetarian
+Chicken Curry,"Chicken, Onion, Tomato, Spices",300,20.0,15.0,10,2.0,450,300,Moderate,2,"Spicy, rich in protein",1 bowl,Dinner,Non-Vegetarian
+Egg Curry,"Eggs, Onion, Tomato, Spices",250,12.0,14.0,10,1.0,350,150,Moderate,1,"Protein-rich, flavorful",1 bowl,Dinner,Non-Vegetarian
+Mutton Sukka,"Mutton, Spices, Coconut",320,22.0,20.0,5,1.0,400,200,Moderate,0,"Hearty, rich in protein",1 serving,Dinner,Non-Vegetarian
+Fish Molee,"Fish, Coconut Milk, Spices",280,22.0,15.0,5,1.0,350,200,Low,1,"Mild, rich in protein",1 bowl,Dinner,Non-Vegetarian
+Prawn Masala,"Prawns, Onion, Tomato, Spices",270,22.0,12.0,8,1.0,350,200,Moderate,1,"Spicy, protein-packed",1 bowl,Dinner,Non-Vegetarian
+Chicken Kebab,"Chicken, Yogurt, Spices",300,25.0,18.0,5,0.0,400,200,Moderate,0,"High protein, low carb",2 pieces,Dinner,Non-Vegetarian
+Mutton Kurma,"Mutton, Coconut, Spices",330,20.0,20.0,10,2.0,450,200,Moderate,2,"Creamy, rich in flavor",1 bowl,Dinner,Non-Vegetarian
+Fish Fry,"Fish, Spices, Oil",220,20.0,12.0,2,0.0,400,150,Low,0,"Protein-rich, low-carb",2 pieces,Dinner,Non-Vegetarian
+Egg Roast,"Eggs, Onion, Tomato, Spices",240,14.0,10.0,8,1.0,350,150,Moderate,1,"Spicy, rich in protein",2 eggs,Dinner,Non-Vegetarian
+Chicken 65,"Chicken, Spices, Oil",280,22.0,18.0,2,0.0,400,150,Moderate,0,"Crispy, high protein",2 pieces,Dinner,Non-Vegetarian
